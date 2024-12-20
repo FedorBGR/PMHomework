@@ -61,7 +61,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/FedorBGR/PMHomework.git
+   (https://github.com/FedorBGR/PMHomework)
    ```
 
 2. Откройте нужный блокнот в Google Colab или Kaggle.
